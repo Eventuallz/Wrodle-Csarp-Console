@@ -1,0 +1,15 @@
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\bin\Debug\net6.0\Wordle_200422.exe
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\bin\Debug\net6.0\Wordle_200422.deps.json
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\bin\Debug\net6.0\Wordle_200422.runtimeconfig.json
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\bin\Debug\net6.0\Wordle_200422.dll
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\bin\Debug\net6.0\Wordle_200422.pdb
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.csproj.AssemblyReference.cache
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.AssemblyInfoInputs.cache
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.AssemblyInfo.cs
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.csproj.CoreCompileInputs.cache
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.dll
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\refint\Wordle_200422.dll
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.pdb
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\Wordle_200422.genruntimeconfig.cache
+C:\Users\Findus\Personal Projects\Csharp\Wordle_200422\obj\Debug\net6.0\ref\Wordle_200422.dll

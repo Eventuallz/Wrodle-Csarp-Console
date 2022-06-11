@@ -1,0 +1,15 @@
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\bin\Debug\net6.0\Wordle.exe
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\bin\Debug\net6.0\Wordle.deps.json
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\bin\Debug\net6.0\Wordle.runtimeconfig.json
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\bin\Debug\net6.0\Wordle.dll
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\bin\Debug\net6.0\Wordle.pdb
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.csproj.AssemblyReference.cache
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.AssemblyInfoInputs.cache
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.AssemblyInfo.cs
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.dll
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\refint\Wordle.dll
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.pdb
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\Wordle.genruntimeconfig.cache
+C:\Users\Findus\Personal Projects\Programming\C#\Practicing\Practice\Wordle\obj\Debug\net6.0\ref\Wordle.dll
